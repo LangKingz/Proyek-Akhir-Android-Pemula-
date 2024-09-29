@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Sepatu</string>
+    <string name="nama">nama</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="title">Title</string>
+    <string name="share">Share</string>
+
+    <string-array name="nama_sepatu">
+        <item>Nike Dunk Low1</item>
+        <item>Freak 5 EP</item>
+        <item>Luka 2 PF </item>
+        <item>Tatum 2 Legacy PF </item>
+        <item>Nike Air Force 1</item>
+        <item>Nike Air Force 1 variant</item>
+        <item>Air Jordan 1 Low OG </item>
+        <item>Air Jordan 1 Retro High OG  </item>
+        <item>Jordan One Take 5 PF </item>
+        <item>Luka 2 PF variant</item>
+        <item>Luka 2 PF varian2</item>
+    </string-array>
+
+    <string-array name="deskripsi_sepatu">
+        <item>Nike Dunk Low1 adalah kombinasi sempurna antara gaya dan kenyamanan. Dirancang dengan bahan premium dan sol karet yang responsif, sepatu ini cocok untuk penggunaan sehari-hari dan aktivitas olahraga.</item>
+        <item>Freak 5 EP menawarkan dukungan luar biasa untuk pemain basket. Dengan desain yang ergonomis dan teknologi bantalan yang canggih, sepatu ini membantu meningkatkan performa di lapangan.</item>
+        <item>Luka 2 PF didesain untuk mendukung permainan cepat. Dengan midsole yang responsif dan desain cage yang menjaga stabilitas, sepatu ini memastikan performa terbaik saat bermain.</item>
+        <item>Tatum 2 Legacy PF menggabungkan gaya dengan performa. Dirancang untuk meningkatkan kecepatan dan kelincahan, sepatu ini memiliki teknologi penyerapan guncangan untuk kenyamanan sepanjang permainan.</item>
+        <item>Nike Air Force 1 adalah ikon klasik yang selalu relevan. Dengan desain yang sederhana namun elegan, sepatu ini memberikan kenyamanan maksimal dan dukungan yang baik.</item>
+        <item>Nike Air Force 1 variant menghadirkan sentuhan baru pada desain klasik. Dikenal karena kenyamanannya, sepatu ini dilengkapi dengan material premium dan variasi warna yang trendy.</item>
+        <item>Air Jordan 1 Low OG adalah pilihan sempurna bagi penggemar sepatu basket. Dengan gaya yang sporty dan daya tarik visual yang kuat, sepatu ini cocok untuk digunakan di lapangan maupun jalanan.</item>
+        <item>Air Jordan 1 Retro High OG merupakan sepatu yang menggabungkan sejarah dan inovasi. Dikenal karena dukungan pergelangan kaki yang baik, sepatu ini adalah pilihan utama bagi para pemain.</item>
+        <item>Jordan One Take 5 PF adalah sepatu yang dirancang untuk kecepatan dan responsivitas. Dengan outsole yang memberikan traksi optimal, sepatu ini ideal untuk permainan cepat di lapangan.</item>
+        <item>Luka 2 PF variant hadir dengan desain yang lebih segar dan teknologi terkini. Menawarkan dukungan maksimal, sepatu ini cocok untuk pemain yang mengutamakan performa.</item>
+        <item>Luka 2 PF varian2 menampilkan kombinasi warna yang menarik dan inovasi teknologi. Sepatu ini dirancang untuk memberikan kenyamanan dan stabilitas saat bermain di lapangan.</item>
+    </string-array>
+
+
+    <integer-array name="gambar_sepatu">
+        <item>@drawable/nike1</item>
+        <item>@drawable/nike2</item>
+        <item>@drawable/nike3</item>
+        <item>@drawable/nike4</item>
+        <item>@drawable/nike5</item>
+        <item>@drawable/nike6</item>
+        <item>@drawable/nike7</item>
+        <item>@drawable/nike8</item>
+        <item>@drawable/nike9</item>
+        <item>@drawable/nike10</item>
+    </integer-array>
+
+</resources>
